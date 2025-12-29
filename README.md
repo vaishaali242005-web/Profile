@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Vaishaali Balamurugan
 🎓 B.Tech student specializing in Mechatronics Engineering<br><br>🤖 Aspiring Robotics Engineer focused on autonomous systems<br><br>🧠 Core interests: Robotics, AI, Machine Learning, Control Systems<br><br>💻 Actively learning Python, C++, ROS2, Kalman Filters<br><br>🔧 Hands-on experience with Arduino, sensors, actuators, motor drivers<br><br>✋🚗 Worked on a gesture-controlled robot project<br><br>👁️ Strong focus on robot perception, sensors, and camera systems<br><br>🌍 Preparing for IELTS to pursue studies abroad<br><br>🇩🇪 Long-term goal: Study and work in Germany as a robotics engineer<br><br>📄 Aiming to publish technical papers and real-world projects<br><br>🗣️ Improving technical English, pronunciation, and speaking confidence<br><br>🚀 Strengths: curiosity, discipline-building mindset, long-term vision<br><br>⏳ Actively overcoming procrastination and focus challenges<br><br>📈 Committed to structured learning, consistency, and growth
 
 
